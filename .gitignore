@@ -2,3 +2,7 @@
 .DS_Store
 *.pyc
 /Supervised_Machine_Learning_Regression_and_Classification/C1W2_LR/.ipynb_checkpoints/
+/.idea/
+Build_Better_Generative_Adversarial_Networks_GANs/C2W1_Frechet_Inception_Distance/fid_images_tensor.npz
+Build_Better_Generative_Adversarial_Networks_GANs/C2W1_Frechet_Inception_Distance/inception_v3_google-1a9a5a14.pth
+Build_Better_Generative_Adversarial_Networks_GANs/C2W1_Frechet_Inception_Distance/pretrained_celeba.pth
